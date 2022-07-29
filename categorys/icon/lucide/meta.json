@@ -1,8 +1,6 @@
 {
     "name": "Lucide",
-    "summary": "好看的SVG图标",
+    "summary": "由社区制作的精美且一致的SVG图标工具包",
     "website": "https://lucide.dev/",
-    "github": "https://github.com/lucide-icons/lucide",
-    "tags": "标签，多个标签用英文逗号隔开",
-    "isFree": "是否免费"
+    "github": "https://github.com/lucide-icons/lucide"
 }
