@@ -18,4 +18,4 @@ clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添�
 其中 `github` 为可选参数，其它为必填参数
 
 
-2、`thumbnail.png` 缩略图，宽度小于800px，请用 https://tinypng.com/ 对缩略图进行压缩。
+2、`thumbnail.png` 缩略图，推荐尺寸 500 * 360 px，请用 https://tinypng.com/ 对缩略图进行压缩。
