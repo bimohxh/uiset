@@ -2,5 +2,9 @@
     "name": "Weather Icons",
     "summary": "各种天气和气候的图标集",
     "website": "https://erikflowers.github.io/weather-icons/",
-    "github": "https://github.com/erikflowers/weather-icons"
+    "github": "https://github.com/erikflowers/weather-icons",
+    "license": {
+        "name": "SIL OFL 1.1",
+        "url": "http://scripts.sil.org/OFL"
+    }
 }

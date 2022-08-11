@@ -2,5 +2,9 @@
     "name": "Lucide",
     "summary": "由开源社区制作的精美且风格一致的SVG图标工具包，并且提供了多个框架的SDK集成",
     "website": "https://lucide.dev/",
-    "github": "https://github.com/lucide-icons/lucide"
+    "github": "https://github.com/lucide-icons/lucide",
+    "license": {
+        "name": "ISC",
+        "url": "https://github.com/lucide-icons/lucide/blob/main/LICENSE"
+    }
 }

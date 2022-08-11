@@ -1,5 +1,8 @@
 {
     "name": "Flexiple",
     "summary": "每天一个高质量的免费插图",
-    "website": "https://flexiple.com/illustrations/"
+    "website": "https://flexiple.com/illustrations/",
+    "license": {
+        "url": "https://flexiple.com/illustrations"
+    }
 }

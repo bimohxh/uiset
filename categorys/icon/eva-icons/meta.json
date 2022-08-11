@@ -2,5 +2,9 @@
     "name": "Eva Icons",
     "summary": "包含 480 多个精美的开源图标，用于常见的操作和项目",
     "website": "https://akveo.github.io/eva-icons/",
-    "github": "https://github.com/akveo/eva-icons"
+    "github": "https://github.com/akveo/eva-icons",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/akveo/eva-icons/blob/master/LICENSE.txt"
+    }
 }

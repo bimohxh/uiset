@@ -1,5 +1,8 @@
 {
     "name": "Design Free Graphics",
     "summary": "Desgin.com的免费插图",
-    "website": "https://delesign.com/free-designs/graphics/illustration"
+    "website": "https://delesign.com/free-designs/graphics/illustration",
+    "license": {
+        "url": "https://delesign.com/terms-and-conditions"
+    }
 }

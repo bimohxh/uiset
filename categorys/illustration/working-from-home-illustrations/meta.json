@@ -1,5 +1,8 @@
 {
     "name": "Working From Home Illustrations",
     "summary": "一套免费的在家工作、在家锻炼、在室内游戏的插图",
-    "website": "https://drawkit.com/product/working-from-home-illustrations"
+    "website": "https://drawkit.com/product/working-from-home-illustrations",
+    "license": {
+        "url": "https://drawkit.com/license"
+    }
 }

@@ -2,5 +2,9 @@
     "name": "SVG Porn",
     "summary": "大量SVG品牌Logo图标",
     "website": "https://svgporn.com/",
-    "github": "https://github.com/gilbarbara/logos"
+    "github": "https://github.com/gilbarbara/logos",
+    "license": {
+        "name": "CC0",
+        "url": "https://github.com/gilbarbara/logos/blob/master/LICENSE.txt"
+    }
 }

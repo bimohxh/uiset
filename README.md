@@ -12,10 +12,21 @@ clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添�
     "name": "Lucide",
     "summary": "好看的SVG图标",
     "website": "https://lucide.dev/",
-    "github": "https://github.com/lucide-icons/lucide"
+    "github": "https://github.com/lucide-icons/lucide",
+    "license": {
+        "name": "ISC",
+        "url": "https://github.com/lucide-icons/lucide/blob/main/LICENSE"
+    }
 }
 ```
-其中 `github` 为可选参数，其它为必填参数
+
+- `name`: 资源名，必填。
+- `summary`: 资源简述，必填。
+- `website`: 资源网站地址，必填。
+- `github`: 资源的GitHub开源地址，选填。
+- `license`: 资源的使用许可协议，选填（`name` 和 `url` 至少必须填写一个）。
+    - `name`: 协议名
+    - `url`： 协议地址
 
 
 2、`thumbnail.png` 缩略图，推荐尺寸 500 * 360 px，请用 https://tinypng.com/ 对缩略图进行压缩。

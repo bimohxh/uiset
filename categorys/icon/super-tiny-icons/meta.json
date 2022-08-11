@@ -2,5 +2,9 @@
     "name": "Super Tiny Icons",
     "summary": "超小的知名品牌Logo图标",
     "website": "https://github.com/edent/SuperTinyIcons",
-    "github": "https://github.com/edent/SuperTinyIcons"
+    "github": "https://github.com/edent/SuperTinyIcons",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/edent/SuperTinyIcons/blob/master/LICENSE"
+    }
 }

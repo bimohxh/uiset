@@ -1,5 +1,8 @@
 {
     "name": "404 illustrations",
     "summary": "一组用于制作404页面的免费插图包",
-    "website": "https://error404.fun/"
+    "website": "https://error404.fun/",
+    "license": {
+        "url": "https://craftwork.design/license"
+    }
 }

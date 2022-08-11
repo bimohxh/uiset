@@ -2,5 +2,9 @@
     "name": "Material Design Icons",
     "summary": "一款异常丰富的 Material Design 风格的图标库",
     "website": "https://materialdesignicons.com/",
-    "github": "https://github.com/Templarian/MaterialDesign"
+    "github": "https://github.com/Templarian/MaterialDesign",
+    "license": {
+        "name": "Apache 2.0",
+        "url": "https://github.com/Templarian/MaterialDesign/blob/master/LICENSE"
+    }
 }

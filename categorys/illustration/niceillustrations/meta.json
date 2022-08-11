@@ -1,5 +1,8 @@
 {
     "name": "Nice Illustrations",
     "summary": "按分类下载数百个免费插图，用于您的商业和个人项目",
-    "website": "https://niceillustrations.com/free-illustrations/"
+    "website": "https://niceillustrations.com/free-illustrations/",
+    "license": {
+        "url": "https://niceillustrations.com/license/"
+    }
 }

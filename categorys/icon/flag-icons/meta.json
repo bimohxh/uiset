@@ -2,5 +2,9 @@
     "name": "Flag Icons",
     "summary": "所有国家国旗标识的图标库",
     "website": "https://flagicons.lipis.dev/",
-    "github": "https://github.com/lipis/flag-icons"
+    "github": "https://github.com/lipis/flag-icons",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/lipis/flag-icons/blob/main/LICENSE"
+    }
 }

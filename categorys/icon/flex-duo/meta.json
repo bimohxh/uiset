@@ -1,5 +1,9 @@
 {
     "name": "Flex Duo",
     "summary": "500个简约、有着流畅曲线的免费SVG图标",
-    "website": "https://www.streamlinehq.com/icons/streamline-flex---free"
+    "website": "https://www.streamlinehq.com/icons/streamline-flex---free",
+    "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/deed.zh"
+    }
 }

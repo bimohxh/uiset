@@ -1,5 +1,9 @@
 {
     "name": "unDraw",
     "summary": "一组简洁的插画集，支持自定义颜色",
-    "website": "https://undraw.co/illustrations"
+    "website": "https://undraw.co/illustrations",
+    "license": {
+        "name": "ISC",
+        "url": "https://github.com/lucide-icons/lucide/blob/main/LICENSE"
+    }
 }

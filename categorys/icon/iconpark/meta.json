@@ -2,5 +2,9 @@
     "name": "Icon Park",
     "summary": "多种分类的SVG图标库",
     "website": "https://iconpark.oceanengine.com/official",
-    "github": "https://github.com/bytedance/IconPark"
+    "github": "https://github.com/bytedance/IconPark",
+    "license": {
+        "name": "Apache 2.0",
+        "url": "https://github.com/bytedance/IconPark/blob/master/LICENSE"
+    }
 }

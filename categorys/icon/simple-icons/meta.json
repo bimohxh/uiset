@@ -2,5 +2,9 @@
     "name": "Simple Icons",
     "summary": "知名品牌的免费SVG图标",
     "website": "https://simpleicons.org/",
-    "github": "https://github.com/simple-icons/simple-icons"
+    "github": "https://github.com/simple-icons/simple-icons",
+    "license": {
+        "name": "CC0",
+        "url": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md"
+    }
 }

@@ -2,5 +2,9 @@
     "name": "Icons8 Logo Icons",
     "summary": "Icons免费的品牌图标",
     "website": "https://icons8.com/icon/set/logos/color/",
-    "github": "https://github.com/icons8/flat-color-icons"
+    "github": "https://github.com/icons8/flat-color-icons",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/icons8/flat-color-icons/blob/master/LICENSE.md"
+    }
 }

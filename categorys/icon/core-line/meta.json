@@ -1,5 +1,9 @@
 {
     "name": "Core Line",
     "summary": "常用的线性风格SVG图标",
-    "website": "https://www.streamlinehq.com/icons/streamline-mini-line"
+    "website": "https://www.streamlinehq.com/icons/streamline-mini-line",
+    "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/deed.zh"
+    }
 }
