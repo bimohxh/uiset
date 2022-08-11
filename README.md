@@ -5,7 +5,7 @@
 
 clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添加下面两个文件再提 pr
 
-1、`meta.json` 用来描述资源的信息，格式如下
+1、`meta.json`（必选） 用来描述资源的信息，格式如下
 
 ```json
 {
@@ -29,4 +29,6 @@ clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添�
     - `url`： 协议地址
 
 
-2、`thumbnail.png` 缩略图，推荐尺寸 500 * 360 px，请用 https://tinypng.com/ 对缩略图进行压缩。
+2、`thumbnail.png`（必选）缩略图，推荐尺寸 500 * 360 px，请用 https://tinypng.com/ 对缩略图进行压缩。
+
+3、`README.md`（可选）关于资源的详细说明和使用说明，markdown 格式，最终会以相似的效果渲染到uiset的资源详情页中，参考 https://uiset.com/resource/illustration/undraw
