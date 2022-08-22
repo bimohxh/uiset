@@ -1,0 +1,10 @@
+{
+    "name": "Iconoir",
+    "summary": "一个包含 1000 多个独特 SVG 图标的开源库",
+    "website": "https://iconoir.com",
+    "github": "https://github.com/iconoir-icons/iconoir",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/iconoir-icons/iconoir/blob/master/LICENSE"
+    }
+}
