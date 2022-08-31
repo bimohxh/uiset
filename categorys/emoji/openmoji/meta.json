@@ -1,0 +1,10 @@
+{
+    "name": "OpenMoji",
+    "summary": "一个开源的丰富的SVG表情库",
+    "website": "https://www.openmoji.org/library",
+    "github": "https://github.com/hfg-gmuend/openmoji",
+    "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt"
+    }
+}
