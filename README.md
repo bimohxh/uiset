@@ -3,7 +3,7 @@
 该repo用于存放与UI相关的免费资源信息，有效分类参见：https://github.com/uiset-com/generate/blob/master/data/category.json
 # 提交资源
 
-clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添加下面两个文件再提 pr
+Fork本项目，然后在 `categorys/[分类]` 下面新建一个目录，添加下面两个文件再提 pr
 
 1、`meta.json`（必选） 用来描述资源的信息，格式如下
 
