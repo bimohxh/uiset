@@ -1,0 +1,10 @@
+{
+    "name": "Avatar Generator",
+    "summary": "一个有趣的开源头像生成器",
+    "website": "https://personas.draftbit.com",
+    "github": "https://github.com/draftbit/avatar-generator",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/draftbit/avatar-generator/blob/master/LICENSE"
+    }
+}
