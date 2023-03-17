@@ -1,0 +1,10 @@
+{
+    "name": "Glyphs",
+    "summary": "一款支持多种样式的图标库",
+    "website": "https://glyphs.fyi/",
+    "github": "https://github.com/gorango/glyphs",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/gorango/glyphs/blob/main/license"
+    }
+}
