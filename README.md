@@ -28,7 +28,7 @@ clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添�
 - `summary`: 资源简述，必填。
 - `website`: 资源网站地址，必填。
 - `github`: 资源的GitHub开源地址，选填。
-- `score`: 评分。总分100分，默认按照得分排序
+- `recommend`: 是否极力推荐（布尔值，可填）
 - `license`: 资源的使用许可协议，选填（`name` 和 `url` 至少必须填写一个）。
     - `name`: 协议名
     - `url`： 协议地址
