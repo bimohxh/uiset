@@ -1,0 +1,10 @@
+{
+    "name": "heroicons",
+    "summary": "由 Tailwind CSS 团队手工制作的精美 SVG 图标",
+    "website": "https://heroicons.com/",
+    "github": "https://github.com/tailwindlabs/heroicons",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+    }
+}
