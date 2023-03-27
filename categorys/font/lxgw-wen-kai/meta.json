@@ -6,5 +6,6 @@
     "license": {
         "name": "SIL Open Font",
         "url": "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL"
-    }
+    },
+    "recommend": true
 }

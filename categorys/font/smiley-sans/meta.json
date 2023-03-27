@@ -6,5 +6,6 @@
     "license": {
         "name": "SIL Open Font",
         "url": "https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE"
-    }
+    },
+    "recommend": true
 }

@@ -1,5 +1,10 @@
 {
     "name": "Sensa Emoji",
     "summary": "300+免费高质量的矢量表情包",
-    "website": "https://sensa.co/emoji/"
+    "website": "https://sensa.co/emoji/",
+    "github": "https://github.com/sensadesign/sensaemoji",
+    "license": {
+        "name": "MIT",
+        "url": "https://github.com/sensadesign/sensaemoji/blob/main/LICENSE"
+    }
 }

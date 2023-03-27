@@ -6,5 +6,6 @@
     "license": {
         "name": "CC BY-SA 4.0",
         "url": "https://github.com/hfg-gmuend/openmoji/blob/master/LICENSE.txt"
-    }
+    },
+    "recommend": true
 }

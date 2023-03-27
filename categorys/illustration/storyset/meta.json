@@ -4,5 +4,6 @@
     "website": "https://storyset.com",
     "license": {
         "url": "https://storyset.com/terms"
-    }
+    },
+    "recommend": true
 }

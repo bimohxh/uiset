@@ -3,5 +3,5 @@
     "summary": "一个将代码生成漂亮的截图和视频的开源在线工具",
     "website": "https://recoded.netlify.app",
     "github": "https://github.com/siddharthroy12/recoded",
-    "score": 95
+    "recommend": true
 }
