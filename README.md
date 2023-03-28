@@ -1,16 +1,38 @@
-# 关于
 
-该repo用于存放与UI相关的免费资源信息，有效分类参见：https://github.com/uiset-com/generate/blob/master/data/category.json
-# 提交资源
 
-clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添加下面两个文件再提 pr
 
-1、`meta.json`（必选） 用来描述资源的信息，格式如下
+# About
+
+[中文](README.CN)
+
+
+uiset is an open source repository of high-quality, free and commercially available UI resources. anyone can recommend.
+
+# Category
+
+
+- [**😃 Emoji**](categorys/emoji)
+- [**🖼️ Image**](categorys/image)
+- [**🎨 Color**](categorys/color)
+- [**🏳️‍🌈 Icon**](categorys/icon)
+- [**🌫️ Pattern**](categorys/pattern)
+- [**💡 Illustration**](categorys/illustration)
+- [**🎉 Beautify**](categorys/beatify)
+- [**🤠 Avatar**](categorys/avatar)
+- [**✒️ Font**](categorys/font)
+
+
+
+# Submit
+
+Clone this project, then create a new directory under `categorys/[category]`, add the following two files and create a pr
+
+1、`meta.json` (Required) The information used to describe the resource, the format is as follows
 
 ```json
 {
     "name": "Lucide",
-    "summary": "好看的SVG图标",
+    "summary": "A good iconset",
     "website": "https://lucide.dev/",
     "github": "https://github.com/lucide-icons/lucide",
     "license": {
@@ -24,20 +46,16 @@ clone本项目，然后在 `categorys/[分类]` 下面新建一个目录，添�
 }
 ```
 
-- `name`: 资源名，必填。
-- `summary`: 资源简述，必填。
-- `website`: 资源网站地址，必填。
-- `github`: 资源的GitHub开源地址，选填。
-- `recommend`: 是否极力推荐（布尔值，可填）
-- `license`: 资源的使用许可协议，选填（`name` 和 `url` 至少必须填写一个）。
-    - `name`: 协议名
-    - `url`： 协议地址
-- `payload`:
-    - `count`： 数量，比如图标和插画数量
-- `tags`: 自定义的标签
+- `name`: Resource name, required.
+- `summary`: A brief description of the resource, required。
+- `website`: Resource website address, required.
+- `github`: The GitHub open source address of the resource, optional.
+- `license`: Resource license agreement, optional (`name` and `url` must be filled in at least one)。
+    - `name`: License name.
+    - `url`： License address.
+- `payload`: optional
+    - `count`： Quantity, such as the number of icons and illustrations
+- `tags`: custom tags
 
 
-2、`thumbnail.png`（必选）缩略图，推荐尺寸 500 * 360 px，请用 https://tinypng.com/ 对缩略图进行压缩。
-
-3、`README.md`（可选）关于资源的详细说明和使用说明，markdown 格式，最终会以相似的效果渲染到uiset的资源详情页中，参考 https://uiset.com/resource/illustration/undraw
- 
+2、`thumbnail.png` (*Required) Thumbnail, recommended size `300 * 300` px, please use https://tinypng.com/ to compress the thumbnail.
