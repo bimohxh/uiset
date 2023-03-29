@@ -12,5 +12,5 @@ jobs:
           curl -X POST \
           -H "Authorization: Bearer ${{secrets.ACCESS_TOKEN}}" \
           -H "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/uiset-com/generate/actions/workflows/deploy.yml/dispatches \
+          https://api.github.com/repos/bimohxh/uiset-generator/actions/workflows/deploy.yml/dispatches \
           -d '{"ref": "master"}'

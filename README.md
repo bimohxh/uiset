@@ -3,7 +3,7 @@
 
 # About
 
-[中文](README.CN)
+[中文](README.CN.md)
 
 
 uiset is an open source repository of high-quality, free and commercially available UI resources. anyone can recommend.
