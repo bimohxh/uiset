@@ -3,15 +3,15 @@
 
 # About
 
-[中文](README.CN.md)
+![](https://img.shields.io/github/license/bimohxh/uiset)  [![](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E8%AF%B4%E6%98%8E-orange)]((README.CN.md))
 
 
-uiset is an open source repository of high-quality, free and commercially available UI resources. anyone can recommend.
+UISET is an open source repository of high-quality, free and commercially available UI resources. anyone can recommend.
 
 # Category
 
 
-- [**😃 Emoji**](categorys/emoji)
+- [**😃 Emoji**](categorys/emoji) 
 - [**🖼️ Image**](categorys/image)
 - [**🎨 Color**](categorys/color)
 - [**🏳️‍🌈 Icon**](categorys/icon)
