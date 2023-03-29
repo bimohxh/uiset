@@ -1,0 +1,8 @@
+{
+    "name": "Unsplash",
+    "summary": "拥有超过一百万张可免费下载和商用的各种类型的高分辨率照片",
+    "website": "https://unsplash.com/",
+    "license": {
+        "url": "https://unsplash.com/license"
+    }
+}

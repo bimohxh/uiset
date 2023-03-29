@@ -1,0 +1,8 @@
+{
+    "name": "Pixabay",
+    "summary": "提供超过 280 万多张高质量的图片资源，此外还可下载一些插画",
+    "website": "https://pixabay.com/",
+    "license": {
+        "url": "https://pixabay.com/service/license/"
+    }
+}
