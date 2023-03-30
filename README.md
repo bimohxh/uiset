@@ -1,16 +1,17 @@
 
 
 
-# About
+<p align="center">
+    <img src="logo.svg" />
+</p>
 
 
-![](https://img.shields.io/github/issues-pr-raw/bimohxh/uiset?label=pull%20request) ![](https://img.shields.io/github/license/bimohxh/uiset)  [![](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E8%AF%B4%E6%98%8E-orange)](README.CN.md)
-
-
-![](logo.svg)
-
-
-UISET is an open source repository of high-quality, free and commercially available UI resources. anyone can recommend.
+<p  align="center">A high-quality, free and commercially available UI resources. anyone can recommend.</p>
+<p  align="center">
+<img src="https://img.shields.io/github/issues-pr-raw/bimohxh/uiset?label=pull%20request" />
+    <img src="https://img.shields.io/github/license/bimohxh/uiset" />
+    <a href="README.zh.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E8%AF%B4%E6%98%8E-orange" /></a>
+</p>
 
 # Category
 

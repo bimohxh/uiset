@@ -1,12 +1,16 @@
-# 关于
 
 
-![](https://img.shields.io/github/issues-pr-raw/bimohxh/uiset?label=pull%20request) ![](https://img.shields.io/github/license/bimohxh/uiset)  [![](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E8%AF%B4%E6%98%8E-orange)](README.CN.md)
+
+<p align="center">
+    <img src="logo.svg" />
+</p>
 
 
-![](logo.svg)
-
-uiset 是一个收集优质免费可商用 UI 资源的开源仓库，任何人都可以推荐。
+<p  align="center">一个收集优质免费可商用 UI 资源的开源仓库，任何人都可以推荐。</p>
+<p  align="center">
+<img src="https://img.shields.io/github/issues-pr-raw/bimohxh/uiset?label=pull%20request" />
+    <img src="https://img.shields.io/github/license/bimohxh/uiset" />
+</p>
 
 # 分类
 
