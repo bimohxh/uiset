@@ -1,6 +1,7 @@
 {
     "name": "Iconoir",
-    "summary": "一个包含 1000 多个独特 SVG 图标的开源库",
+    "summary": "A high-quality selection of free icons. No premium options or sign-ups. Your new alternative to Noun Project, Flaticon, and all Figma resources",
+    "summary_zh": "一个包含 1000 多个独特 SVG 图标的开源库",
     "website": "https://iconoir.com",
     "github": "https://github.com/iconoir-icons/iconoir",
     "license": {

@@ -1,6 +1,7 @@
 {
     "name": "Eva Icons",
-    "summary": "包含 480 多个精美的开源图标，用于常见的操作和项目",
+    "summary": "A pack of more than 480 beautifully crafted Open Source icons for common actions and items",
+    "summary_zh": "包含 480 多个精美的开源图标，用于常见的操作和项目",
     "website": "https://akveo.github.io/eva-icons/",
     "github": "https://github.com/akveo/eva-icons",
     "license": {

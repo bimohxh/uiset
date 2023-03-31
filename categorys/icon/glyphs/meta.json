@@ -1,6 +1,7 @@
 {
     "name": "Glyphs",
-    "summary": "一款支持多种样式的图标库",
+    "summary": "The Mightiest Icons on the Web. Fully editable & truly open source design system",
+    "summary_zh": "一款支持多种样式的图标库",
     "website": "https://glyphs.fyi/",
     "github": "https://github.com/gorango/glyphs",
     "license": {

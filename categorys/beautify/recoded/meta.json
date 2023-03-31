@@ -1,6 +1,7 @@
 {
     "name": "Recoded",
-    "summary": "一个将代码生成漂亮的截图和视频的开源在线工具",
+    "summary": "An open source online tool that generates beautiful screenshots and videos from code",
+    "summary_zh": "一个将代码生成漂亮的截图和视频的开源在线工具",
     "website": "https://recoded.netlify.app",
     "github": "https://github.com/siddharthroy12/recoded",
     "recommend": true

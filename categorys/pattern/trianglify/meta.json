@@ -1,5 +1,7 @@
 {
     "name": "Trianglify.io",
-    "summary": "支持多种参数定制的三角形图案生成器",
-    "website": "https://trianglify.io/"
+    "summary": "Generate low-poly backgrounds, textures, and vectors",
+    "summary_zh": "支持多种参数定制的三角形图案生成器",
+    "website": "https://trianglify.io/",
+    "github": "https://github.com/qrohlf/trianglify"
 }

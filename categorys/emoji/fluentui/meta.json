@@ -1,6 +1,7 @@
 {
     "name": "Fluent Emoji",
-    "summary": "来自微软的一系列常见的表情包",
+    "summary": "A collection of familiar, friendly, and modern emoji from Microsoft",
+    "summary_zh": "来自微软的一系列常见的表情包",
     "website": "https://github.com/microsoft/fluentui-emoji",
     "github": "https://github.com/microsoft/fluentui-emoji",
     "license": {

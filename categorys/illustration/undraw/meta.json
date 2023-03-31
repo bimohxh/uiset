@@ -1,6 +1,7 @@
 {
     "name": "unDraw",
-    "summary": "一组简洁的插画集，支持自定义颜色",
+    "summary": "Open-source illustrations for any idea you can imagine and create",
+    "summary_zh": "一组简洁的插画集，支持自定义颜色",
     "website": "https://undraw.co/illustrations",
     "license": {
         "name": "ISC",

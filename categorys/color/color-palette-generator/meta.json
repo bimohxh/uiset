@@ -1,5 +1,6 @@
 {
     "name": "Color palette generator",
-    "summary": "用于冷色组合和 UI 元素的 CSS 调色板",
+    "summary": "CSS color palettes for cool color combinations and UI elements",
+    "summary_zh": "用于冷色组合和 UI 元素的 CSS 调色板",
     "website": "https://mybrandnewlogo.com/color-palette-generator"
 }

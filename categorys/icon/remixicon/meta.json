@@ -1,6 +1,7 @@
 {
     "name": "Remix Icon",
-    "summary": "一组为设计师和开发人员精心打造的开源中性风格系统符号",
+    "summary": "A set of open-source neutral-style system symbols elaborately crafted for designers and developers.",
+    "summary_zh": "一组为设计师和开发人员精心打造的开源中性风格系统符号",
     "website": "https://remixicon.com/",
     "github": "https://github.com/Remix-Design/RemixIcon",
     "license": {

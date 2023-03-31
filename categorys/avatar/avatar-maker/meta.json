@@ -1,6 +1,7 @@
 {
     "name": "Avatar Maker",
-    "summary": "自由组装你的svg头像",
+    "summary": "Freely assemble your svg avatar",
+    "summary_zh": "自由组装你的svg头像",
     "website": "https://avatarx.netlify.app/",
     "github": "https://github.com/favrora/Avatar-Maker"
 }

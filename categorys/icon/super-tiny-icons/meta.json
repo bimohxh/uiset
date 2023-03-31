@@ -1,6 +1,7 @@
 {
     "name": "Super Tiny Icons",
-    "summary": "超小的知名品牌Logo图标",
+    "summary": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+    "summary_zh": "超小的知名品牌 Logo 图标",
     "website": "https://github.com/edent/SuperTinyIcons",
     "github": "https://github.com/edent/SuperTinyIcons",
     "license": {

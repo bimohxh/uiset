@@ -1,5 +1,6 @@
 {
     "name": "Colordot",
-    "summary": "通过移动鼠根据坐标来获取多个颜色的组合",
+    "summary": "Get the combination of multiple colors by moving the mouse according to the coordinates",
+    "summary_zh": "通过移动鼠根据坐标来获取多个颜色的组合",
     "website": "https://color.hailpixel.com"
 }

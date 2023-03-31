@@ -1,5 +1,7 @@
 {
     "name": "Code to Image Converter",
-    "summary": "将您的代码片段转换为漂亮的图像",
-    "website": "https://codetoimg.com/"
+    "summary": "A beautifully designed application that helps you generate beautiful and customizable images of your code snippets",
+    "summary_zh": "将您的代码片段转换为漂亮的图像",
+    "website": "https://codetoimg.com/",
+    "github": "https://github.com/iam-rohid/code-to-img"
 }

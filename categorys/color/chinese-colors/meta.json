@@ -1,6 +1,7 @@
 {
     "name": "Chinese Color",
-    "summary": "在线中国传统颜色",
+    "summary": "Chinese traditional color cheatsheet online",
+    "summary_zh": "在线中国传统颜色",
     "website": "https://colors.ichuantong.cn/",
     "github": "https://github.com/zerosoul/chinese-colors"
 }

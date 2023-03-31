@@ -1,6 +1,7 @@
 {
     "name": "Avataaars Generator",
-    "summary": "一个简单的头像生成器",
+    "summary": "A free online avatar generator for anyone to make their beautiful personal avatar easily",
+    "summary_zh": "一个简单的头像生成器",
     "website": "https://getavataaars.com/",
     "github": "https://github.com/fangpenlin/avataaars-generator"
 }

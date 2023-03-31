@@ -1,5 +1,6 @@
 {
     "name": "Snippet Shot",
-    "summary": "从代码片段创建漂亮的屏幕截图",
+    "summary": "Create beautiful screenshots from code snippets",
+    "summary_zh": "从代码片段创建漂亮的屏幕截图",
     "website": "https://www.snippetshot.com/"
 }

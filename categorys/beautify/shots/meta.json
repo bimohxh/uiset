@@ -1,6 +1,7 @@
 {
     "name": "Shots",
-    "summary": "一款强大的 Mockup 工具，支持浏览器和手机等多种设备以及各种酷炫的背景色",
+    "summary": "A powerful mockup tool that supports multiple devices such as browsers and mobile phones and various cool background colors",
+    "summary_zh": "一款强大的 Mockup 工具，支持浏览器和手机等多种设备以及各种酷炫的背景色",
     "website": "https://shots.so/",
     "recommend": true
 }

@@ -1,6 +1,7 @@
 {
     "name": "AI Colors",
-    "summary": "通过AI提示词生成色彩方案，包括移动端APP、管理后台和Landing页的场景预览",
+    "summary": "Generate palettes from a text prompt",
+    "summary_zh": "通过AI提示词生成色彩方案，包括移动端APP、管理后台和Landing页的场景预览",
     "website": "https://aicolors.co/",
     "recommend": true
 }

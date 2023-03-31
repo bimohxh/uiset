@@ -1,5 +1,6 @@
 {
     "name": "goodpalette",
-    "summary": "生成一整套网站UI配色方案",
+    "summary": "Make beautiful color palettes for UI",
+    "summary_zh": "生成一整套网站UI配色方案",
     "website": "https://goodpalette.io"
 }

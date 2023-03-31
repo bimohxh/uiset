@@ -1,6 +1,7 @@
 {
     "name": "Wicked Backgrounds",
-    "summary": "一个用于生成漂亮的波浪渐变图形的工具",
+    "summary": "A tool for generating beautiful wavy gradient graphics",
+    "summary_zh": "一个用于生成漂亮的波浪渐变图形的工具",
     "website": "https://wickedbackgrounds.com/app",
     "recommend": true
 }

@@ -1,6 +1,7 @@
 {
     "name": "Circle Flags",
-    "summary": "300+ 开源的圆形 SVG 国旗图标集合",
+    "summary": "A collection of 360+ minimal circular SVG country and state flags",
+    "summary_zh": "300+ 开源的圆形 SVG 国旗图标集合",
     "website": "https://hatscripts.github.io/circle-flags/gallery",
     "github": "https://github.com/HatScripts/circle-flags",
     "license": {

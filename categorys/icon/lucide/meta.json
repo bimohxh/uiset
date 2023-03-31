@@ -1,6 +1,7 @@
 {
     "name": "Lucide",
-    "summary": "由开源社区制作的精美且风格一致的SVG图标工具包，并且提供了多个框架的SDK集成",
+    "summary": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons",
+    "summary_zh": "由开源社区制作的精美且风格一致的SVG图标工具包，并且提供了多个框架的SDK集成",
     "website": "https://lucide.dev/",
     "github": "https://github.com/lucide-icons/lucide",
     "license": {

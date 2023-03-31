@@ -1,6 +1,7 @@
 {
     "name": "skuawk",
-    "summary": "包含野生动物、景观、城市、人物等多个分类的照片集",
+    "summary": "A collection of photos in multiple categories including wildlife, landscapes, cities, people, etc",
+    "summary_zh": "包含野生动物、景观、城市、人物等多个分类的照片集",
     "website": "https://skuawk.com/",
     "license": {
         "name": "CC0",

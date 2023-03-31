@@ -1,6 +1,7 @@
 {
     "name": "React Nice Avatar",
-    "summary": "一个好看的头像生成器",
+    "summary": "React library for generating avatar",
+    "summary_zh": "一个好看的头像生成器",
     "website": "https://nice-avatar.dapiok.com/",
     "github": "https://github.com/dapilab/react-nice-avatar"
 }

@@ -1,6 +1,7 @@
 {
     "name": "Core Line",
-    "summary": "常用的线性风格SVG图标",
+    "summary": "An open-source set with all the essential free icons for user interfaces, based on a tiny 14px grid",
+    "summary_zh": "常用的线性风格SVG图标",
     "website": "https://www.streamlinehq.com/icons/streamline-mini-line",
     "license": {
         "name": "CC BY 4.0",

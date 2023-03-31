@@ -1,6 +1,7 @@
 {
     "name": "magdeleine",
-    "summary": "每日分享高分辨率图片",
+    "summary": "Share high-resolution images daily",
+    "summary_zh": "每日分享高分辨率图片",
     "website": "https://magdeleine.co/",
     "license": {
         "name": "CC0",

@@ -1,6 +1,7 @@
 {
     "name": "Notion Avatar Maker",
-    "summary": "一款notion黑白手绘风格的头像",
+    "summary": "An online tool for making notion-style avatars",
+    "summary_zh": "一款notion黑白手绘风格的头像",
     "website": "https://notion-avatar.vercel.app/",
     "github": "https://github.com/mayandev/notion-avatar",
     "license": {

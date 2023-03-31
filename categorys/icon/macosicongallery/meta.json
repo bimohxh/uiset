@@ -1,5 +1,6 @@
 {
     "name": "MacOS Icon Gallery",
-    "summary": "一个收集苹果应用图标的网站",
+    "summary": "A website that collects Apple app icons",
+    "summary_zh": "一个收集苹果应用图标的网站",
     "website": "https://www.macosicongallery.com"
 }

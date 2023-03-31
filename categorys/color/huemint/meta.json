@@ -1,6 +1,7 @@
 {
     "name": "Huemint",
-    "summary": "使用机器学习为您的品牌、网站或图形创建独特的配色方案",
+    "summary": "Use machine learning to create unique color schemes for your brand, website or graphic",
+    "summary_zh": "使用机器学习为您的品牌、网站或图形创建独特的配色方案",
     "website": "https://huemint.com/",
     "recommend": true
 }

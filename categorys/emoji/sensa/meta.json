@@ -1,6 +1,7 @@
 {
     "name": "Sensa Emoji",
-    "summary": "300+免费高质量的矢量表情包",
+    "summary": "A 300+ huuuuuge high-quality, vector & dev-friendly emoji collection",
+    "summary_zh": "300+免费高质量的矢量表情包",
     "website": "https://sensa.co/emoji/",
     "github": "https://github.com/sensadesign/sensaemoji",
     "license": {

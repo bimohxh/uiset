@@ -1,5 +1,6 @@
 {
     "name": "UI Colors",
-    "summary": "Tailwind CSS 颜色生成器，按空格键或输入指定颜色值生成一组 50-900 的色标",
+    "summary": "Press spacebar, enter a hexcode or change the HSL values to create a custom color scale",
+    "summary_zh": "Tailwind CSS 颜色生成器，按空格键或输入指定颜色值生成一组 50-900 的色标",
     "website": "https://uicolors.app"
 }

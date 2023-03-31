@@ -1,5 +1,6 @@
 {
     "name": "Shape Divider",
-    "summary": "用于生成多种分隔形状的工具，高度可定制",
+    "summary": "Make it easier for designers and developers to export a beautiful SVG shape divider for their latest project",
+    "summary_zh": "用于生成多种分隔形状的工具，高度可定制",
     "website": "https://www.shapedivider.app"
 }

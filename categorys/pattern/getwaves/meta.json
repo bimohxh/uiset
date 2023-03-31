@@ -1,5 +1,6 @@
 {
     "name": "GetWaves",
-    "summary": "在线生成波浪图形",
+    "summary": "Make some waves",
+    "summary_zh": "在线生成波浪图形",
     "website": "https://getwaves.io/"
 }

@@ -1,6 +1,7 @@
 {
     "name": "HyperColor",
-    "summary": "使用全系列 Tailwind CSS 颜色精心挑选的精美 Tailwind CSS 渐变",
+    "summary": "A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients",
+    "summary_zh": "使用全系列 Tailwind CSS 颜色精心挑选的精美 Tailwind CSS 渐变",
     "website": "https://github.com/jordihales/hypercolor/",
     "github": "https://github.com/jordihales/hypercolor"
 }

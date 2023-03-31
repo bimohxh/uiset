@@ -1,6 +1,7 @@
 {
     "name": "Icon Park",
-    "summary": "多种分类的SVG图标库",
+    "summary": "Various categories of SVG icon libraries",
+    "summary_zh": "多种分类的SVG图标库",
     "website": "https://iconpark.oceanengine.com/official",
     "github": "https://github.com/bytedance/IconPark",
     "license": {

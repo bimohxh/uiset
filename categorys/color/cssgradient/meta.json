@@ -1,5 +1,6 @@
 {
     "name": "CSS Gradient",
-    "summary": "在线CSS渐变色生成器",
+    "summary": "A happy little website and free tool that lets you create a gradient background for websites",
+    "summary_zh": "在线CSS渐变色生成器",
     "website": "https://cssgradient.io/"
 }

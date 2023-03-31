@@ -1,5 +1,6 @@
 {
     "name": "BGJar",
-    "summary": "支持多个背景形状图案的生成和自定义参数",
+    "summary": "Free svg background generator for your websites, blogs and app",
+    "summary_zh": "支持多个背景形状图案的生成和自定义参数",
     "website": "https://bgjar.com/"
 }

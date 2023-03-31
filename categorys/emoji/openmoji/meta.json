@@ -1,6 +1,7 @@
 {
     "name": "OpenMoji",
-    "summary": "一个开源的丰富的SVG表情库",
+    "summary": "An open source rich SVG expression library",
+    "summary_zh": "一个开源的丰富的SVG表情库",
     "website": "https://www.openmoji.org/library",
     "github": "https://github.com/hfg-gmuend/openmoji",
     "license": {

@@ -1,6 +1,7 @@
 {
     "name": "heroicons",
-    "summary": "由 Tailwind CSS 团队手工制作的精美 SVG 图标",
+    "summary": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS",
+    "summary_zh": "由 Tailwind CSS 团队手工制作的精美 SVG 图标",
     "website": "https://heroicons.com/",
     "github": "https://github.com/tailwindlabs/heroicons",
     "license": {

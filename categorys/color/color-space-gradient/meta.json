@@ -1,5 +1,6 @@
 {
     "name": "Color Space Gradient",
-    "summary": "在线生成渐变色工具",
+    "summary": "Generate a CSS color gradient online",
+    "summary_zh": "在线生成渐变色工具",
     "website": "https://mycolor.space/gradient"
 }

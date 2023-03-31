@@ -1,5 +1,6 @@
 {
     "name": "Veranda Color",
-    "summary": "提供好看的颜色和调色板以及随机生成颜色组合的工具",
+    "summary": "Provides good-looking colors and palettes as well as tools for randomly generating color combinations",
+    "summary_zh": "提供好看的颜色和调色板以及随机生成颜色组合的工具",
     "website": "https://verandacolor.com"
 }

@@ -1,6 +1,7 @@
 {
     "name": "Foodiesfeed",
-    "summary": "提供高分辨率的极具视觉吸引力的免费食物照片的最佳资源",
+    "summary": "The best resource for visually appealing free food photos in high resolution",
+    "summary_zh": "提供高分辨率的极具视觉吸引力的免费食物照片的最佳资源",
     "website": "https://www.foodiesfeed.com/",
     "license": {
         "name": "CC0",

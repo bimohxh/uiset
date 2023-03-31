@@ -1,6 +1,7 @@
 {
     "name": "Gradientos",
-    "summary": "一组精选CSS渐变色",
+    "summary": "Hand-picked CSS gradients on UI elements",
+    "summary_zh": "一组精选CSS渐变色",
     "website": "https://www.gradientos.app",
     "github": "https://github.com/henripar/gradientos"
 }

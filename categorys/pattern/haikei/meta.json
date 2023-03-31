@@ -1,6 +1,7 @@
 {
     "name": "Haikei",
-    "summary": "可定制的多种SVG图案生成器",
+    "summary": "A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more",
+    "summary_zh": "可定制的多种SVG图案生成器",
     "website": "https://app.haikei.app/",
     "recommend": true
 }

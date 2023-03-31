@@ -1,5 +1,6 @@
 {
     "name": "Coolors Image Picker",
-    "summary": "从照片中提取颜色",
+    "summary": "Extract beautiful palettes from your photos",
+    "summary_zh": "从照片中提取颜色",
     "website": "https://coolors.co/image-picker"
 }

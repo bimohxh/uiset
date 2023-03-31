@@ -1,6 +1,7 @@
 {
     "name": "Material Design Icons",
-    "summary": "一款异常丰富的 Material Design 风格的图标库",
+    "summary": "An unusually rich Material Design style icon library",
+    "summary_zh": "一款异常丰富的 Material Design 风格的图标库",
     "website": "https://materialdesignicons.com/",
     "github": "https://github.com/Templarian/MaterialDesign",
     "license": {

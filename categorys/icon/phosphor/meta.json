@@ -1,6 +1,7 @@
 {
     "name": "Phosphor",
-    "summary": "一个灵活的图标系列，用于界面、图表、演示文稿等任何场景，除了常规的线框和填充，还支持非常好看的双色(Duotone)模式",
+    "summary": "A flexible icon series for any scene such as interfaces, charts, presentations, etc. In addition to the regular wireframe and fill, it also supports a very good-looking duotone mode",
+    "summary_zh": "一个灵活的图标系列，用于界面、图表、演示文稿等任何场景，除了常规的线框和填充，还支持非常好看的双色(Duotone)模式",
     "website": "https://phosphoricons.com/",
     "recommend": true
 }

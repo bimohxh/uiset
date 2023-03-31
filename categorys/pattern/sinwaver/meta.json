@@ -1,5 +1,6 @@
 {
     "name": "Sine wave SVG generator",
-    "summary": "SVG曲线生成",
+    "summary": "A simple SVG curve generator",
+    "summary_zh": "SVG曲线生成",
     "website": "https://www.sinwaver.com/"
 }

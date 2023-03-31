@@ -1,6 +1,7 @@
 {
     "name": "uigradients",
-    "summary": "一个开源的渐变色方案集",
+    "summary": "An open source gradient color scheme set",
+    "summary_zh": "一个开源的渐变色方案集",
     "website": "https://uigradients.com",
     "github": "https://github.com/Ghosh/uiGradients"
 }

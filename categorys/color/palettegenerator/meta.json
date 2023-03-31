@@ -1,5 +1,6 @@
 {
     "name": "Color Palette Generator",
-    "summary": "点击空格键生成随机调色板",
+    "summary": "Press “Spacebar” to get new palette. Press “C” to copy palette to clipboard. Click individual color to copy to clipboard",
+    "summary_zh": "点击空格键生成随机调色板",
     "website": "https://palettegenerator.colorion.co"
 }

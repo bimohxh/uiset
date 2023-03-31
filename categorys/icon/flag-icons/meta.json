@@ -1,6 +1,7 @@
 {
     "name": "Flag Icons",
-    "summary": "所有国家国旗标识的图标库",
+    "summary": "A curated collection of all country flags in SVG — plus the CSS for easier integration",
+    "summary_zh": "所有国家国旗标识的图标库",
     "website": "https://flagicons.lipis.dev/",
     "github": "https://github.com/lipis/flag-icons",
     "license": {

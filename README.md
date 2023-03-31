@@ -38,6 +38,7 @@ Clone this project, then create a new directory under `categorys/[category]`, ad
 {
     "name": "Lucide",
     "summary": "A good iconset",
+    "summary_zh": "一个好看的图标集",
     "website": "https://lucide.dev/",
     "github": "https://github.com/lucide-icons/lucide",
     "license": {
@@ -52,7 +53,8 @@ Clone this project, then create a new directory under `categorys/[category]`, ad
 ```
 
 - `name`: Resource name, required.
-- `summary`: A brief description of the resource, required。
+- `summary`: An english brief description of the resource, required。
+- `summary_zh`: A chinese brief description of the resource, required。
 - `website`: Resource website address, required.
 - `github`: The GitHub open source address of the resource, optional.
 - `license`: Resource license agreement, optional (`name` and `url` must be filled in at least one)。
