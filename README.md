@@ -22,7 +22,7 @@
 - [**🏳️‍🌈 Icon**](categorys/icon)
 - [**🌫️ Pattern**](categorys/pattern)
 - [**💡 Illustration**](categorys/illustration)
-- [**🎉 Beautify**](categorys/beatify)
+- [**🎉 Beautify**](categorys/beautify)
 - [**🤠 Avatar**](categorys/avatar)
 - [**✒️ Font**](categorys/font)
 

@@ -21,7 +21,7 @@
 - [**🏳️‍🌈 图标**](categorys/icon)
 - [**🌫️ 图案**](categorys/pattern)
 - [**💡 插画**](categorys/illustration)
-- [**🎉 美化**](categorys/beatify)
+- [**🎉 美化**](categorys/beautify)
 - [**🤠 头像**](categorys/avatar)
 - [**✒️ 字体**](categorys/font)
 
